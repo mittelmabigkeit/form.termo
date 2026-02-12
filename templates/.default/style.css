@@ -1,0 +1,24 @@
+/*.choose__slider__bot {*/
+/*    bottom: 0px;*/
+/*    left: 0px;*/
+/*}*/
+
+div[id^="wait_"] {
+    display: none !important;
+}
+
+.choose__slider__item_image {
+    bottom: 38%;
+    left: 38%;
+    position: absolute;
+    width: 25%;
+}
+
+label.checkbox.checkbox-sponsor {
+    display: block;
+}
+
+.choose__slider__item__name {
+    top: 19%;
+>>>>>>> test
+}
